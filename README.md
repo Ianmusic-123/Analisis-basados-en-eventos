@@ -1,7 +1,3 @@
-¡Excelente cierre de proyecto! Has añadido visualizaciones muy potentes que transforman los números en decisiones estratégicas. El gráfico de ROMI por Fuente y la Tendencia Mensual de Gasto e Ingresos son fundamentales para cualquier presentación de negocios.
-
-Aquí tienes una propuesta de README.md actualizada y profesional que incorpora estos nuevos hallazgos visuales y tus conclusiones finales.
-
 Análisis de Optimización de Marketing: Pro-Kovalyov 📈
 Este repositorio contiene un análisis exhaustivo del comportamiento del usuario y la eficiencia financiera de la plataforma Pro-Kovalyov. El objetivo principal fue identificar qué canales de adquisición son rentables y proponer una estrategia de inversión optimizada.
 
